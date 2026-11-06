@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cookie Editor</string>
+    <string name="enter_url">Enter website URL</string>
+    <string name="go">Go</string>
+    <string name="edit_cookies">Edit Cookies</string>
+    <string name="cookies_for">Cookies for:</string>
+    <string name="no_cookies">No cookies found for this domain</string>
+    <string name="add_cookie">Add Cookie</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="domain">Domain</string>
+    <string name="path">Path</string>
+    <string name="cookie_saved">Cookie saved successfully</string>
+    <string name="cookie_deleted">Cookie deleted</string>
+    <string name="invalid_url">Please enter a valid URL</string>
+    <string name="refresh">Refresh</string>
+</resources>
